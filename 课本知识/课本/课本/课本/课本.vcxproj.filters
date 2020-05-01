@@ -84,5 +84,26 @@
     <ClCompile Include="8.函数strcmp和strncmp.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.函数strchr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strcspn.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strpbrk.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strrchr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strspn.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strstr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strtok.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

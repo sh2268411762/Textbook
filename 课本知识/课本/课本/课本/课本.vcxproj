@@ -31,6 +31,7 @@
     <ClCompile Include="5.阶乘.c" />
     <ClCompile Include="5.随机数.c" />
     <ClCompile Include="7.指针（取址符的使用）.c" />
+    <ClCompile Include="8.函数strchr.c" />
     <ClCompile Include="8.strtod函数.c" />
     <ClCompile Include="8.strtol函数.c" />
     <ClCompile Include="8.strtoul函数.c" />
@@ -41,6 +42,12 @@
     <ClCompile Include="8.函数strcat和strncat.c" />
     <ClCompile Include="8.函数strcmp和strncmp.c" />
     <ClCompile Include="8.函数strcpy和strncpy.c" />
+    <ClCompile Include="8.函数strcspn.c" />
+    <ClCompile Include="8.函数strpbrk.c" />
+    <ClCompile Include="8.函数strrchr.c" />
+    <ClCompile Include="8.函数strspn.c" />
+    <ClCompile Include="8.函数strstr.c" />
+    <ClCompile Include="8.函数strtok.c" />
     <ClCompile Include="8.实参判断.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
