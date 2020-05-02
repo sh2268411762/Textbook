@@ -31,10 +31,15 @@
     <ClCompile Include="5.阶乘.c" />
     <ClCompile Include="5.随机数.c" />
     <ClCompile Include="7.指针（取址符的使用）.c" />
+    <ClCompile Include="8.函数memchr.c" />
+    <ClCompile Include="8.函数memcmp.c" />
+    <ClCompile Include="8.函数memcpy.c" />
+    <ClCompile Include="8.函数memmove.c" />
+    <ClCompile Include="8.函数memset.c" />
     <ClCompile Include="8.函数strchr.c" />
-    <ClCompile Include="8.strtod函数.c" />
-    <ClCompile Include="8.strtol函数.c" />
-    <ClCompile Include="8.strtoul函数.c" />
+    <ClCompile Include="8.函数strtod.c" />
+    <ClCompile Include="8.函数strtol.c" />
+    <ClCompile Include="8.函数strtoul.c" />
     <ClCompile Include="8.函数fgets和putchar.c" />
     <ClCompile Include="8.函数getchar.c" />
     <ClCompile Include="8.函数sprintf.c" />
@@ -43,6 +48,8 @@
     <ClCompile Include="8.函数strcmp和strncmp.c" />
     <ClCompile Include="8.函数strcpy和strncpy.c" />
     <ClCompile Include="8.函数strcspn.c" />
+    <ClCompile Include="8.函数strerror.c" />
+    <ClCompile Include="8.函数strlen.c" />
     <ClCompile Include="8.函数strpbrk.c" />
     <ClCompile Include="8.函数strrchr.c" />
     <ClCompile Include="8.函数strspn.c" />

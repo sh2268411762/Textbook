@@ -54,15 +54,6 @@
     <ClCompile Include="8.实参判断.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="8.strtod函数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8.strtol函数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="8.strtoul函数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="8.函数fgets和putchar.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -103,6 +94,36 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="8.函数strtok.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数memmove.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数memcpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数memcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数memchr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数memset.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strerror.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strlen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strtod.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strtol.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.函数strtoul.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
