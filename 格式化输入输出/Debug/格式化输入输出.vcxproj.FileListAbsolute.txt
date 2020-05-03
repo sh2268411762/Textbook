@@ -1,0 +1,2 @@
+D:\git Code\Textbook\格式化输入输出\Debug\格式化输入输出.exe
+D:\git Code\Textbook\格式化输入输出\Debug\格式化输入输出.pdb
