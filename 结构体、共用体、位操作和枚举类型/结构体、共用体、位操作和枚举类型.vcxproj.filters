@@ -21,5 +21,17 @@
     <ClCompile Include="高性能的洗牌发牌程序.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="共用体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="按位显示一个无符号整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位操作符的使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="按位左移右移.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
