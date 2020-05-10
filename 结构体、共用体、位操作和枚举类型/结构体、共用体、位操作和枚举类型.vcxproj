@@ -23,6 +23,7 @@
     <ClCompile Include="共用体.c" />
     <ClCompile Include="按位左移右移.c" />
     <ClCompile Include="按位显示一个无符号整数.c" />
+    <ClCompile Include="结构体——bit.c" />
     <ClCompile Include="结构体的访问.c" />
     <ClCompile Include="高性能的洗牌发牌程序.c" />
   </ItemGroup>
