@@ -36,5 +36,11 @@
     <ClCompile Include="结构体——bit.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="枚举.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="共用体——bit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
