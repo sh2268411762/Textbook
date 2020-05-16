@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="位域.c" />
     <ClCompile Include="位操作符的使用.c" />
     <ClCompile Include="共用体.c" />
     <ClCompile Include="共用体——bit.cpp" />

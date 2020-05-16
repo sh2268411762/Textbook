@@ -42,5 +42,8 @@
     <ClCompile Include="共用体——bit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="位域.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
