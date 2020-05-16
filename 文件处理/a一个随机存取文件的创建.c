@@ -12,7 +12,7 @@
 //{
 //	FILE* cfPtr;
 //
-//	if ((cfPtr = fopen("account.dat", "wb")) == NULL)
+//	if ((cfPtr = fopen("accounts.dat", "wb")) == NULL)
 //	{
 //		puts("文件不能被打开");
 //	}

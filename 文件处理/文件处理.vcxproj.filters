@@ -27,5 +27,11 @@
     <ClCompile Include="a一个随机存取文件的创建.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="a随机地向一个随机存取文件中写入数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="a顺序地读取一个随机存取文件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
