@@ -33,5 +33,8 @@
     <ClCompile Include="a顺序地读取一个随机存取文件.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="事务处理程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

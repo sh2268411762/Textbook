@@ -145,6 +145,7 @@
     <ClCompile Include="c信用查询程序.c" />
     <ClCompile Include="c创建一个顺序文件的例程.c" />
     <ClCompile Include="c读取并打印顺序文件.c" />
+    <ClCompile Include="事务处理程序.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
